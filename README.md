@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F72121&size=25&duration=7000&center=true&vCenter=true&multiline=true&height=100&lines=%F0%9F%91%8F+WLC+REFAT-156+PROFILE+%F0%9F%91%8F)](https://git.io/typing-svg)
-
 Programmer | Learner 💞
 
 - 🔭 I’m currently working on **Android Development**
