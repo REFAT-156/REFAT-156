@@ -1,9 +1,6 @@
-<h1 align="center">Hi ❤️ I'm REFAT SHAHRIAR </h1>
-<h3 align="center">¯\_(ツ)_/¯
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F72121&size=25&duration=7000&center=true&vCenter=true&multiline=true&height=100&lines=%F0%9F%91%8F+WLC+REFAT-156+PROFILE+%F0%9F%91%8F)](https://git.io/typing-svg)
 
-Programmer | Learner
-
-?></h3>
+Programmer | Learner 💞
 
 - 🔭 I’m currently working on **Android Development**
 
@@ -16,6 +13,10 @@ Programmer | Learner
 - 📫 How to reach me **refat1352@gmail.com**
 
 - ⚡ Fun fact **I can provide you cookies for free to eat 🍪😂**
+
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=😍+Assalamu+Alaikum+🖤;+👿+It's+Not+Only+Just+Name+,;It's+A+Brand+REFAT-156+,,👿;Thank+You+Everyone+LvuAll)](https://git.io/typing-svg)
 
 ### Connect with me:
 
