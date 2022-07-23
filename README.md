@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/REFAT-156/README.md/blob/main/Wave.gif" height="55px" width="55px">, I'm REFAT SHAHRIAR </h1>
+<h1 align="center">Hi ❤️ I'm REFAT SHAHRIAR </h1>
 <h3 align="center">¯\_(ツ)_/¯
 
 Programmer | Learner
