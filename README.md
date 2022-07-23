@@ -59,10 +59,10 @@ Programmer | Content Creator | Learner
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=REFAT-156&show_icons=true&locale=en" alt="REFAT SHAHRIAR" /></p>
 
-[website]: https://.com
+[website]: https://www.RefatBlogspot.com
 [facebook]: https://facebook.com/FHRBRO
-[twitter]: https://twitter.com/refatshahriar
-[youtube]: https://youtube.com/REFAT SHAHRIAR
+[twitter]: https://twitter.com/
+[youtube]: https://youtube.com/channel/UC82aIUkhQPyBPosTRV-pyVA
 [instagram]: https://instagram.com/refatshahriar
 [linkedin]: https://linkedin.com/in/refatshahriar
 [telegram]: https://t.me/REFATTERMUXCOMMAND
