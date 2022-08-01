@@ -14,9 +14,6 @@
 
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=REFAT-156&label=Profile%20views&color=eb4d3d&style=flat-square" alt="REFAT-156" /> </p>
-</i></b></h3>
-
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 <a href="https://github.com/REFAT-156"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=REFAT-156&theme=monokai"></a>
 
