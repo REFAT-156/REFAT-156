@@ -69,7 +69,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ⚡ Fun fact **I think I AM NOOB**
+- ⚡ Fun fact **I think I AM NOOB 🗾 **
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
@@ -114,10 +114,9 @@
 </table>
 <br>
 
-### Profile Visitors
+## PROFILE VISITORS
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=REFAT-156.visitor-badge&left_color=blue&right_color=yellow)
-<br />
+<img src="https://profile-counter.glitch.me/REFAT-156/count.svg" />
 
 <h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-graph.png" /><i> GitHub Contribution Graph :</i></h2>
 
