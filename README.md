@@ -12,11 +12,7 @@
 
 ![Alt text](https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/raw/main/md7Oqrf.gif)
 
-</p>
-
-![Alt text](https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/raw/main/md7Oqrf.gif)
-
-</p>
+<//p>
 
 <p align="center"> 
 
