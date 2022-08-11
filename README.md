@@ -1,12 +1,12 @@
 <h3 align="center">
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
-  &nbsp; Welcome to REFAT PROFILE &nbsp;
+  &nbsp; Welcome to GitHub PROFILE &nbsp;
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 </h3>
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello+World%2C+I'm+REFAT+Here+🤙;𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾+🥱;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳+🔥;Respect+REFAT+🥀;Today+I+Will+Tell+You+🤗;Please+Follow+My+GitHub+🙏;Thanks+My+All+Friend+🤙+🥰)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=27&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello+World%2C+I'm+REFAT+Here+🤙;𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾+🥱;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳+🔥;Respect+REFAT+🥀;Today+I+Will+Tell+You+🤗;Please+Follow+My+GitHub+🙏;Thanks+My+All+Friend+🤙+🥰)](https://git.io/typing-svg)
 
 <img src="https://github.com/MRVIVEK-CODER/Decompiler/blob/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif" alt="" border="0" />
 
@@ -33,43 +33,43 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 🙂 𝐍𝐀𝐌𝐄:- REFAT SHAHRIAR 👌
+- 🔰 𝐍𝐀𝐌𝐄:- REFAT SHAHRIAR 👌
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 👊 𝐀𝐆𝐄:- 19 🥱
+- 🔰 𝐀𝐆𝐄:- 19 🥱
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 📕 𝐄𝐃𝐔𝐂𝐀𝐓𝐈𝐎𝐍:- DIPLOMA IN ENGINEERING 💖
+- 🔰 𝐄𝐃𝐔𝐂𝐀𝐓𝐈𝐎𝐍:- DIPLOMA IN ENGINEERING 💖
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ❤ 𝐋𝐎𝐕𝐄𝐑:- PYTHON 💝
+- 🔰 𝐋𝐎𝐕𝐄𝐑:- PYTHON 💝
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 👉 𝐈𝐍𝐒F𝐈𝐑𝐀𝐓𝐈𝐎𝐍:- BHAI BROTHER 🤘
+- 🔰 𝐈𝐍𝐒F𝐈𝐑𝐀𝐓𝐈𝐎𝐍:- BHAI BROTHER 🤘
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 🤲🏻 𝐑𝐄𝐋𝐈𝐆𝐈𝐎𝐍:- ISLAM 🕋
+- 🔰 𝐑𝐄𝐋𝐈𝐆𝐈𝐎𝐍:- ISLAM 🕋
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 📱𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊:- [REFAT SHAHRIAR](https://www.facebook.com/FHRBRO)
+- 🔰 𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊:- [REFAT SHAHRIAR](https://www.facebook.com/FHRBRO)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 📱𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊 𝐏𝐀𝐆𝐄:- [FAHAD HOSSAIN REFAT](https://www.facebook.com/CIVITKHABA)
+- 🔰 𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊 𝐏𝐀𝐆𝐄:- [FAHAD HOSSAIN REFAT](https://www.facebook.com/CIVITKHABA)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 💻𝐆𝐈𝐓𝐇𝐔𝐁:- [REFAT-156](https://github.com/REFAT-156)
+- 🔰 𝐆𝐈𝐓𝐇𝐔𝐁:- [REFAT-156](https://github.com/REFAT-156)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ⚡ Fun fact **I think I AM NOOB 🗾 **
+- 🔰 Fun fact I think I AM NOOB 🤜🤛🤘
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
