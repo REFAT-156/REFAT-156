@@ -1,3 +1,5 @@
+<p align="center"><img src="https://img.shields.io/badge/MADE%20IN BANGLADESHI-SPAMMAR & PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+
 <h3 align="center">
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="30">
   &nbsp; WELCOME MY GITHUB PROFILE &nbsp;
@@ -6,7 +8,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=23&color=30FF40&background=000000&center=true&vCenter=true&width=420&height=60&lines=HELLO+WORLD%2C+I'M+REFAT+HERE+🤙;IT'S+NOT+A+JUST+NAME+BRO+🥱;IT'S+A+BRAND+🔥;RESPECT+REFAT+🥀;TODAY+I+WILL+TELL+YOU+🤗;PLEASE+FOLLOW+MY+GITHUB+🙏;THANKS+MY+All+FRIEND+🤙+🥰)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=23&color=30FF40&background=000000&center=true&vCenter=true&width=420&height=60&lines=HELLO+WORLD%2C+I'M+REFAT+HERE+🤙;IT'S+NOT+A+JUST+NAME+BRO+🥱;IT'S+A+BRAND+🔥;YOU+RESPECT+ME+I+RESPECT+YOU+🥀;TODAY+I+WILL+TELL+YOU+🤗;PLEASE+FOLLOW+MY+GITHUB+🙏;THANKS+MY+All+FAMILY+🤙+🥰)](https://git.io/typing-svg)
 
 <img src="https://github.com/MRVIVEK-CODER/Decompiler/blob/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif" alt="" border="0" />
 
@@ -33,27 +35,27 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 🔰 𝐍𝐀𝐌𝐄:- REFAT SHAHRIAR 👌
+- 🔰 𝐍𝐀𝐌𝐄:- REFAT SHAHRIAR 
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 🔰 𝐀𝐆𝐄:- 19 🥱
+- 🔰 𝐀𝐆𝐄:- 19
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 🔰 𝐄𝐃𝐔𝐂𝐀𝐓𝐈𝐎𝐍:- DIPLOMA IN ENGINEERING 💖
+- 🔰 𝐄𝐃𝐔𝐂𝐀𝐓𝐈𝐎𝐍:- DIPLOMA IN ENGINEERING
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 🔰 𝐋𝐎𝐕𝐄𝐑:- PYTHON 💝
+- 🔰 𝐋𝐎𝐕𝐄𝐑:- PYTHON 
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 🔰 𝐈𝐍𝐒F𝐈𝐑𝐀𝐓𝐈𝐎𝐍:- BHAI BROTHER 🤘
+- 🔰 𝐈𝐍𝐒F𝐈𝐑𝐀𝐓𝐈𝐎𝐍:- MY OWN RESPONSIBLE 
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 🔰 𝐑𝐄𝐋𝐈𝐆𝐈𝐎𝐍:- ISLAM 🕋
+- 🔰 𝐑𝐄𝐋𝐈𝐆𝐈𝐎𝐍:- ISLAM
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
@@ -68,8 +70,6 @@
 - 🔰 𝐆𝐈𝐓𝐇𝐔𝐁:- [REFAT-156](https://github.com/REFAT-156)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
-
-- 🔰 Fun fact I think I AM NOOB 🤜🤛🤘
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
