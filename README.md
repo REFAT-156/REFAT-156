@@ -26,8 +26,6 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 
 <a href="https://github.com/REFAT-156"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=REFAT-156&theme=monokai"></a>
