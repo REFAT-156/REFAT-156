@@ -22,6 +22,10 @@
 
 </p>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=REFAT-156&theme=vue)
+
+<img src="https://raw.githubusercontent.com/msoftware/msoftware/output/github-contribution-grid-snake.svg" />
+
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
@@ -104,6 +108,7 @@
 <h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-graph.png" /><i> GitHub Contribution Graph :</i></h2>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
 <a href="https://github.com/REFAT-156/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=REFAT-156&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 </a>
