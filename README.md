@@ -19,6 +19,7 @@
  𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
 
  <img src="https://profile-counter.glitch.me/REFAT-156/count.svg" />
+<a href="https://api.daily.dev/get?r=REFAT-156"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a>
 
 </p>
 
@@ -39,7 +40,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 🔰 𝐀𝐆𝐄:- 19
+- 🔰 𝐀𝐆𝐄:- 20
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
@@ -104,7 +105,7 @@
 ## PROFILE VISITORS
 
 <img src="https://profile-counter.glitch.me/REFAT-156/count.svg" />
-
+<a href="https://api.daily.dev/get?r=REFAT-156"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a>
 <h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-graph.png" /><i> GitHub Contribution Graph :</i></h2>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
