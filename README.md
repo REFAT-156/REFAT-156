@@ -1,4 +1,4 @@
-<p align="center"><img src="https://img.shields.io/badge/MADE%20IN BANGLADESHI-SPAMMAR & PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+<p align="center"><img src="https://img.shields.io/badge/MADE%20IN BANGLADESHI-STUDENT & PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
 
 <h3 align="center">
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
@@ -36,39 +36,35 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 🔰 𝐍𝐀𝐌𝐄:- REFAT SHAHRIAR 
+- 🔰 𝐍𝐀𝐌𝐄 :- REFAT SHAHRIAR 🔥
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 🔰 𝐀𝐆𝐄:- 20
+- 🔰 𝐀𝐆𝐄 :- 20 🔥
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 🔰 𝐄𝐃𝐔𝐂𝐀𝐓𝐈𝐎𝐍:- DIPLOMA IN ENGINEERING
+- 🔰 𝐄𝐃𝐔𝐂𝐀𝐓𝐈𝐎𝐍 :- DIPLOMA IN ENGINEERING 🥵
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 🔰 𝐋𝐎𝐕𝐄𝐑:- PYTHON 
+- 🔰 𝐋𝐎𝐕𝐄𝐑 :- PYTHON AND JAVA 🌞
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 🔰 𝐈𝐍𝐒F𝐈𝐑𝐀𝐓𝐈𝐎𝐍:- MY OWN RESPONSIBLE 
+- 🔰 𝐑𝐄𝐋𝐈𝐆𝐈𝐎𝐍 :- ISLAM 🖤
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 🔰 𝐑𝐄𝐋𝐈𝐆𝐈𝐎𝐍:- ISLAM
+- 🔰 𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊 :- [REFAT SHAHRIAR](https://www.facebook.com/refat.py) 🌚
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 🔰 𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊:- [REFAT SHAHRIAR](https://www.facebook.com/FHRBRO)
+- 🔰 𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊 𝐏𝐀𝐆𝐄 :- [Mr R3F4T](https://www.facebook.com/CIVITKHABA) 🌚
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 🔰 𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊 𝐏𝐀𝐆𝐄:- [FAHAD HOSSAIN REFAT](https://www.facebook.com/CIVITKHABA)
-
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
-
-- 🔰 𝐆𝐈𝐓𝐇𝐔𝐁:- [REFAT-156](https://github.com/REFAT-156)
+- 🔰 𝐆𝐈𝐓𝐇𝐔𝐁 :- [REFAT-156](https://github.com/REFAT-156) 💤
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
