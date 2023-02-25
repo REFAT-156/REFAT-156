@@ -1,13 +1,6 @@
-<p align="center"><img src="https://img.shields.io/badge/MADE%20IN BANGLADESHI-STUDENT & PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
-
-<h3 align="center">
-  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
-  &nbsp; WELCOME MY PROFILE &nbsp;
-  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
-</h3>
-
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
-
+![your_text (1)](https://user-images.githubusercontent.com/20098740/178626261-2bbb5de6-2290-47d6-abc0-729eb0e330e4.png)
+![FOLLOWUSPLEASE](https://user-images.githubusercontent.com/20098740/178381026-1c2ecd91-7eb5-4ace-84b5-c0d16b677cb6.gif)
+![your_text (1)](https://user-images.githubusercontent.com/20098740/178626261-2bbb5de6-2290-47d6-abc0-729eb0e330e4.png)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=23&color=30FF40&background=000000&center=true&vCenter=true&width=420&height=60&lines=👋+HELLO+WORLD%2C+I'M+REFAT+HERE+💁;😌+TODAY+I+WILL+TELL+YOU+🤗;💁+PLEASE+FOLLOW+MY+GITHUB+🙏;💻+THANKS+MY+All+FAMILY+MEMBERS+🤙+🥰)](https://git.io/typing-svg)
 
 <img src="https://github.com/MRVIVEK-CODER/Decompiler/blob/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif" alt="" border="0" />
@@ -85,3 +78,7 @@
 
 <img src="https://profile-counter.glitch.me/REFAT-156/count.svg" />
 <a href="https://api.daily.dev/get?r=REFAT-156"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a>
+
+![your_text (1)](https://user-images.githubusercontent.com/20098740/178626261-2bbb5de6-2290-47d6-abc0-729eb0e330e4.png)
+![THANKSCHEERSANDE](https://user-images.githubusercontent.com/20098740/178380759-cba8cee3-8a86-408d-9924-5bcf9ec17375.gif)
+![your_text (1)](https://user-images.githubusercontent.com/20098740/178626261-2bbb5de6-2290-47d6-abc0-729eb0e330e4.png) 
