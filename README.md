@@ -18,8 +18,6 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=REFAT-156&theme=vue)
 
-<img src="https://raw.githubusercontent.com/msoftware/msoftware/output/github-contribution-grid-snake.svg" />
-
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
