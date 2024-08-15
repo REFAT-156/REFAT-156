@@ -31,7 +31,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 🔰 𝐀𝐆𝐄 :- 21 🔥
+- 🔰 𝐀𝐆𝐄 :- 22 🔥
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
